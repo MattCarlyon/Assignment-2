@@ -1,0 +1,45 @@
+h1 {color: yellow;
+    font-size: 40px;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+    background-color: yellow;}
+
+h3 {color: green;}
+h4 {color: red;}
+
+#style {color: green;}
+
+p {color: blue;}
+p {color: black;}
+
+.class-link, .second {color: purple;}
+
+.assignment2 {
+    background-color: rgba(201, 201, 20, 1);
+    opacity: 0.6;
+}
+
+body {
+    background-image: url(../Images/snow.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 200vh;
+}
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue;
+    border-top: 5px solid red;
+    border-radius: 50%;
+    box-shadow: 10px 10px 20px purple;
+    width: 400;
+    height: 400;
+}
+
+
+
+/*assignment 2 styles*/
